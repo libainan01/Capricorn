@@ -1,0 +1,10 @@
+*.log
+.vs/
+.vsconfig
+Binaries/
+Intermediate/
+Plugins/MazesGenerator/Binaries/
+Plugins/MazesGenerator/Intermediate/
+Saved/
+UpgradeLog.htm
+Aries.sln
